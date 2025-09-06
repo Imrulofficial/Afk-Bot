@@ -1,12 +1,12 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "password": "Bto23",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "imsmp.minefort.com",
     "port": 25565,
     "version": "1.19.3"
   },
@@ -25,9 +25,9 @@
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false,
-      "jump": false,
+      "jump": true,
       "rotate": false,
 
       "hit": {
